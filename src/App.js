@@ -25,17 +25,17 @@ const App=()=> {
           s_name={Sdata[2].s_name}
           link={Sdata[2].link}
           />
-    <Card img_src={Sdata[2].img_src}
+    <Card img_src={Sdata[3].img_src}
           // width={Sdata[2].s_name}
-          title={Sdata[2].title}
-          s_name={Sdata[2].s_name}
-          link={Sdata[2].link}
+          title={Sdata[3].title}
+          s_name={Sdata[3].s_name}
+          link={Sdata[3].link}
           />
-    <Card img_src={Sdata[2].img_src}
+    <Card img_src={Sdata[4].img_src}
           // width={Sdata[2].s_name}
-          title={Sdata[2].title}
-          s_name={Sdata[2].s_name}
-          link={Sdata[2].link}
+          title={Sdata[4].title}
+          s_name={Sdata[4].s_name}
+          link={Sdata[4].link}
           />
     </>
     
